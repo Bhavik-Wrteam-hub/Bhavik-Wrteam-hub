@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I can work better in less work load**
 
-- 📍 Based in **Ahmedabad, India**
+- 📍 Based in **Bhuj, Gujarat, India**
 
 <br/>
 
