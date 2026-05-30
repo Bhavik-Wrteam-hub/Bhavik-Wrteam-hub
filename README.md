@@ -77,13 +77,19 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavik-Wrteam-hub&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <a href="https://github.com/Bhavik-Wrteam-hub">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavik-Wrteam-hub&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavik-Wrteam-hub&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/Bhavik-Wrteam-hub">
+    <img src="https://streak-stats.demolab.com/?user=Bhavik-Wrteam-hub&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavik-Wrteam-hub&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/Bhavik-Wrteam-hub">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhavik-Wrteam-hub&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  </a>
 </p>
